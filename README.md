@@ -28,6 +28,10 @@ Predict whether a player in *Squid Game* would survive or be eliminated during t
 ---
 
 ## **Collecting Data**  
-Finding a dataset specific to *Squid Game* participants proved challenging. Since no existing dataset aligned with my requirements, I used Python's **BeautifulSoup** library to scrape data from the [Squid Game Wiki](https://squid-game-minor-players.fandom.com/wiki/List_of_players).  
+Finding a dataset specific to *Squid Game* participants proved challenging. Since no existing dataset aligned with my requirements, I used Python's **BeautifulSoup** library to scrape data from the [Squid Game Wiki](https://squid-game-minor-players.fandom.com/wiki/List_of_players).
 
-The scraping process involved extracting relevant player attributes, such as age, gender, and debt amount, from the wiki's detailed character profiles. The collected data was cleaned and formatted into a structured CSV file for analysis.  
+The scraping process involved editing the URL to loop through each player's wiki profile, extracting relevant attributes, such as age, gender, and debt amount. The collected data was formatted into a structured CSV file for analysis.  
+
+- [Data Collection Notebook](./collecting-data.ipynb): Contains the code used for scraping and processing data.  
+- [Player Records CSV](./player_records.csv): The resulting dataset in CSV format.  
+
