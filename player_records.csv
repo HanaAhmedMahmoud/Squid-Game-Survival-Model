@@ -1,435 +1,436 @@
 Player Number,Age,Sex,Debt,Survival
 2,tr,Male,tr,survived
-3,23,tr,tr,survived
-5,35,tr,tr,survived
-6,tr,tr,tr,survived
-7,tr,Female,tr,survived
-8,23,Male,tr,survived
-9,23,Male,tr,survived
-10,23,Male,tr,survived
-11,23,Male,tr,survived
+3,23,tr,heavy debt,survived
+5,35,tr,debt,survived
+6,tr,tr,debt,survived
+7,tr,Female,heavy debt,survived
+8,23,Male,debt,survived
+9,23,Male,heavy debt,survived
+10,23,Male,debt,survived
+11,23,Male,heavy debt,survived
 12,tr,tr,tr,died
-13,23,Male,tr,survived
-14,23,Male,tr,survived
-15,23,Female,tr,survived
-16,23,Male,tr,survived
-18,tr,Male,tr,survived
-19,23,Male,tr,survived
-20,23,Male,tr,survived
-22,23,Male,tr,survived
-23,23,Male,tr,survived
-24,23,Male,tr,survived
-25,tr,tr,tr,survived
-26,50,Male,tr,died
-27,23,Male,tr,survived
-28,tr,tr,tr,died
-29,23,Male,tr,survived
-30,23,Female,tr,survived
-31,23,Male,tr,survived
-32,tr,tr,tr,died
-33,23,Female,tr,survived
-34,23,Male,tr,survived
-35,23,Male,tr,survived
+13,23,Male,heavy debt,survived
+14,23,Male,heavy debt,survived
+15,23,Female,heavy debt,survived
+16,23,Male,heavy debt,survived
+18,tr,Male,heavy debt,survived
+19,23,Male,heavy debt,survived
+20,23,Male,heavy debt,survived
+22,23,Male,heavy debt,survived
+23,23,Male,debt,survived
+24,23,Male,debt,survived
+25,tr,tr,heavy debt,survived
+26,50,Male,heavy debt,died
+27,23,Male,heavy debt,survived
+28,tr,tr,heavy debt,died
+29,23,Male,heavy debt,survived
+30,23,Female,debt,survived
+31,23,Male,heavy debt,survived
+32,tr,tr,heavy debt,died
+33,23,Female,debt,survived
+34,23,Male,heavy debt,survived
+35,23,Male,heavy debt,survived
 36,tr,Male,tr,survived
-37,23,Female,tr,survived
-38,tr,Male,tr,survived
+37,23,Female,debt,survived
+38,tr,Male,heavy debt,survived
 39,tr,tr,tr,died
-40,tr,Male,tr,survived
+40,tr,Male,heavy debt,survived
 41,tr,tr,tr,died
-42,23,Male,tr,survived
-43,23,Female,tr,survived
-44,23,tr,tr,survived
-45,23,Female,tr,survived
-46,tr,Male,tr,survived
-47,23,Male,tr,survived
-48,tr,Male,tr,died
-49,tr,tr,tr,died
-50,23,Male,tr,survived
-51,tr,Female,tr,survived
-52,tr,tr,tr,survived
-53,tr,tr,tr,died
-54,tr,tr,tr,survived
-55,tr,Male,tr,survived
-56,tr,Female,tr,died
-57,tr,Male,tr,survived
-58,23,Male,tr,survived
-59,tr,tr,tr,survived
-60,tr,Male,tr,survived
-61,40,Female,tr,survived
-63,tr,Male,tr,survived
-64,23,Female,tr,survived
-65,23,Male,tr,survived
-66,23,tr,tr,survived
-68,23,Male,tr,survived
+42,23,Male,heavy debt,survived
+43,23,Female,debt,survived
+44,23,tr,heavy debt,survived
+45,23,Female,heavy debt,survived
+46,tr,Male,debt,survived
+47,23,Male,debt,survived
+48,tr,Male,heavy debt,died
+49,tr,tr,heavy debt,died
+50,23,Male,debt,survived
+51,tr,Female,heavy debt,survived
+52,tr,tr,heavy debt,survived
+53,tr,tr,heavy debt,died
+54,tr,tr,heavy debt,survived
+55,tr,Male,debt,survived
+56,tr,Female,debt,died
+57,tr,Male,debt,survived
+58,23,Male,heavy debt,survived
+59,tr,tr,heavy debt,survived
+60,tr,Male,heavy debt,survived
+61,40,Female,debt,survived
+63,tr,Male,debt,survived
+64,23,Female,heavy debt,survived
+65,23,Male,debt,survived
+66,23,tr,debt,survived
+68,23,Male,debt,survived
 71,tr,tr,tr,died
-72,tr,tr,tr,survived
-73,44,Female,tr,survived
-74,23,tr,tr,survived
-75,23,Male,tr,survived
-76,tr,tr,tr,survived
-77,23,Female,tr,survived
-78,tr,Male,tr,died
-79,23,Male,tr,survived
-80,23,tr,tr,survived
-81,tr,Male,tr,survived
-82,23,Male,tr,survived
-83,tr,Male,tr,survived
-84,23,Male,tr,survived
-85,23,Male,tr,survived
-86,23,Male,tr,survived
-87,23,Male,tr,survived
-88,23,Male,tr,survived
-89,23,Male,tr,survived
-90,tr,Male,tr,survived
-91,23,Male,tr,survived
-92,tr,tr,tr,survived
-93,tr,tr,tr,survived
-94,23,Male,tr,survived
-95,tr,tr,tr,survived
-97,tr,Male,tr,died
-98,tr,Male,tr,survived
+72,tr,tr,debt,survived
+73,44,Female,heavy debt,survived
+74,23,tr,heavy debt,survived
+75,23,Male,heavy debt,survived
+76,tr,tr,heavy debt,survived
+77,23,Female,heavy debt,survived
+78,tr,Male,debt,died
+79,23,Male,debt,survived
+80,23,tr,debt,survived
+81,tr,Male,heavy debt,survived
+82,23,Male,debt,survived
+83,tr,Male,heavy debt,survived
+84,23,Male,debt,survived
+85,23,Male,heavy debt,survived
+86,23,Male,heavy debt,survived
+87,23,Male,heavy debt,survived
+88,23,Male,debt,survived
+89,23,Male,heavy debt,survived
+90,tr,Male,heavy debt,survived
+91,23,Male,heavy debt,survived
+92,tr,tr,heavy debt,survived
+93,tr,tr,debt,survived
+94,23,Male,debt,survived
+95,tr,tr,heavy debt,survived
+97,tr,Male,heavy debt,died
+98,tr,Male,debt,survived
 99,tr,Male,tr,survived
-100,23,Female,tr,survived
-102,tr,Male,tr,survived
-103,tr,tr,tr,died
-104,23,Male,tr,survived
-105,23,tr,tr,survived
-106,tr,tr,tr,died
-107,23,Female,tr,survived
-108,23,tr,tr,survived
+100,23,Female,heavy debt,survived
+102,tr,Male,debt,survived
+103,tr,tr,heavy debt,died
+104,23,Male,debt,survived
+105,23,tr,heavy debt,survived
+106,tr,tr,heavy debt,died
+107,23,Female,debt,survived
+108,23,tr,debt,survived
 109,tr,tr,tr,died
-110,23,Male,tr,survived
-112,23,Male,tr,survived
-113,23,Male,tr,survived
-114,23,Male,tr,survived
-115,tr,Male,tr,died
-116,23,Male,tr,survived
-117,tr,Female,Game 1,survived
-118,23,Male,tr,survived
-119,23,Male,tr,survived
-120,23,Male,tr,survived
-121,tr,Male,tr,survived
+110,23,Male,debt,survived
+112,23,Male,debt,survived
+113,23,Male,heavy debt,survived
+114,23,Male,heavy debt,survived
+115,tr,Male,heavy debt,died
+116,23,Male,heavy debt,survived
+117,tr,Female,debt,survived
+118,23,Male,debt,survived
+119,23,Male,debt,survived
+120,23,Male,debt,survived
+121,tr,Male,heavy debt,survived
 122,23,Male,tr,survived
-123,23,Male,tr,survived
-124,23,Male,tr,survived
-125,23,Female,tr,survived
-126,tr,tr,tr,survived
-127,23,Female,tr,survived
-128,tr,Male,tr,survived
-129,23,Male,tr,survived
-130,23,Male,tr,survived
-131,23,tr,tr,survived
-132,24,Male,tr,survived
-133,46,Male,tr,died
+123,23,Male,debt,survived
+124,23,Male,heavy debt,survived
+125,23,Female,heavy debt,survived
+126,tr,tr,heavy debt,survived
+127,23,Female,heavy debt,survived
+128,tr,Male,heavy debt,survived
+129,23,Male,heavy debt,survived
+130,23,Male,debt,survived
+131,23,tr,debt,survived
+132,24,Male,heavy debt,survived
+133,46,Male,heavy debt,died
 134,tr,Male,tr,survived
-135,tr,Male,tr,survived
+135,tr,Male,heavy debt,survived
 136,tr,tr,tr,died
 137,tr,tr,tr,died
-138,tr,Male,tr,survived
+138,tr,Male,heavy debt,survived
 139,tr,tr,tr,died
-140,tr,Male,tr,died
-141,tr,Male,tr,survived
-142,23,Male,tr,survived
-143,tr,tr,tr,died
-144,tr,tr,tr,died
-145,23,Male,tr,survived
-146,tr,Male,tr,survived
-147,23,tr,tr,survived
-148,23,tr,tr,survived
-149,tr,Male,tr,survived
-150,tr,tr,tr,survived
-152,tr,Female,tr,died
-153,23,Male,tr,survived
-154,23,tr,tr,survived
+140,tr,Male,debt,died
+141,tr,Male,heavy debt,survived
+142,23,Male,debt,survived
+143,tr,tr,heavy debt,died
+144,tr,tr,heavy debt,died
+145,23,Male,heavy debt,survived
+146,tr,Male,heavy debt,survived
+147,23,tr,heavy debt,survived
+148,23,tr,heavy debt,survived
+149,tr,Male,heavy debt,survived
+150,tr,tr,heavy debt,survived
+152,tr,Female,heavy debt,died
+153,23,Male,heavy debt,survived
+154,23,tr,heavy debt,survived
 155,tr,tr,tr,died
-156,tr,tr,tr,died
-157,23,Male,tr,survived
-158,23,Male,tr,survived
-159,23,Male,tr,survived
-160,tr,Male,tr,survived
-161,tr,Male,tr,survived
-162,tr,Female,tr,survived
-163,tr,Female,tr,survived
-164,tr,Mals,tr,survived
-165,tr,Male,tr,survived
-166,tr,Female,tr,survived
-167,tr,Male,tr,survived
-168,tr,Male,tr,survived
-169,tr,Female,tr,survived
-170,tr,Female,tr,survived
-171,tr,Female,tr,survived
+156,tr,tr,heavy debt,died
+157,23,Male,debt,survived
+158,23,Male,debt,survived
+159,23,Male,debt,survived
+160,tr,Male,heavy debt,survived
+161,tr,Male,heavy debt,survived
+162,tr,Female,heavy debt,survived
+163,tr,Female,heavy debt,survived
+164,tr,Mals,heavy debt,survived
+165,tr,Male,heavy debt,survived
+166,tr,Female,heavy debt,survived
+167,tr,Male,heavy debt,survived
+168,tr,Male,heavy debt,survived
+169,tr,Female,heavy debt,survived
+170,tr,Female,heavy debt,survived
+171,tr,Female,heavy debt,survived
 172,tr,tr,tr,died
 173,tr,tr,tr,died
-174,tr,tr,tr,survived
-175,tr,tr,tr,died
-176,tr,Male,tr,survived
+174,tr,tr,heavy debt,survived
+175,tr,tr,heavy debt,died
+176,tr,Male,heavy debt,survived
 177,tr,tr,tr,died
 178,tr,tr,tr,died
 179,tr,tr,tr,died
-180,tr,tr,tr,survived
-181,23,Male,tr,survived
-182,tr,Male,tr,survived
+180,tr,tr,heavy debt,survived
+181,23,Male,heavy debt,survived
+182,tr,Male,heavy debt,survived
 183,tr,Male,tr,survived
 184,23,Male,tr,survived
-185,tr,tr,tr,died
-186,23,Male,tr,survived
-187,23,Male,tr,survived
-188,23,Male,tr,survived
-189,tr,Male,tr,survived
-190,tr,Male,tr,survived
-191,23,tr,tr,survived
-192,tr,Male,tr,survived
-193,tr,Female,tr,survived
-194,23,Male,tr,survived
-195,tr,Male,Game 1,survived
-196,23,Male,tr,survived
-197,tr,Male,tr,survived
-198,23,Female,tr,survived
-200,23,Male,tr,survived
-201,69,Male,tr,survived
+185,tr,tr,heavy debt,died
+186,23,Male,heavy debt,survived
+187,23,Male,heavy debt,survived
+188,23,Male,heavy debt,survived
+189,tr,Male,heavy debt,survived
+190,tr,Male,heavy debt,survived
+191,23,tr,debt,survived
+192,tr,Male,heavy debt,survived
+193,tr,Female,heavy debt,survived
+194,23,Male,heavy debt,survived
+195,tr,Male,heavy debt,survived
+196,23,Male,heavy debt,survived
+197,tr,Male,heavy debt,survived
+198,23,Female,heavy debt,survived
+200,23,Male,heavy debt,survived
+201,69,Male,debt,survived
 202,tr,Male,tr,survived
 203,tr,tr,tr,died
-204,tr,Male,tr,survived
+204,tr,Male,heavy debt,survived
 205,tr,tr,tr,died
-206,tr,Female,tr,survived
+206,tr,Female,heavy debt,survived
 207,tr,tr,tr,died
-208,23,Male,tr,survived
-209,23,Female,tr,survived
-210,23,Male,tr,survived
-211,23,Male,tr,survived
-213,23,Male,tr,survived
-214,tr,Male,tr,survived
-215,23,Male,tr,survived
-216,tr,Female,tr,survived
-217,23,Male,tr,survived
-219,23,Male,tr,survived
-220,23,Male,tr,survived
-221,23,Male,tr,survived
-222,23,tr,tr,survived
+208,23,Male,debt,survived
+209,23,Female,debt,survived
+210,23,Male,heavy debt,survived
+211,23,Male,heavy debt,survived
+213,23,Male,debt,survived
+214,tr,Male,heavy debt,survived
+215,23,Male,debt,survived
+216,tr,Female,heavy debt,survived
+217,23,Male,debt,survived
+219,23,Male,heavy debt,survived
+220,23,Male,heavy debt,survived
+221,23,Male,debt,survived
+222,23,tr,debt,survived
 223,tr,tr,tr,died
-224,23,Male,tr,survived
-225,23,Male,tr,survived
-226,23,Male,tr,survived
-227,23,Male,tr,survived
-228,23,Male,tr,survived
-229,23,Male,tr,survived
-230,23,tr,tr,survived
-231,23,Female,tr,survived
-232,tr,Female,tr,survived
-233,23,Female,tr,survived
-234,23,Female,tr,survived
-235,23,Female,tr,survived
-236,23,Male,tr,survived
-237,tr,Male,tr,survived
-238,23,Male,tr,survived
-239,23,Male,tr,survived
-241,tr,tr,tr,survived
-242,tr,Male,tr,survived
-243,tr,Male,tr,survived
+224,23,Male,debt,survived
+225,23,Male,heavy debt,survived
+226,23,Male,heavy debt,survived
+227,23,Male,heavy debt,survived
+228,23,Male,debt,survived
+229,23,Male,debt,survived
+230,23,tr,heavy debt,survived
+231,23,Female,debt,survived
+232,tr,Female,heavy debt,survived
+233,23,Female,debt,survived
+234,23,Female,heavy debt,survived
+235,23,Female,heavy debt,survived
+236,23,Male,heavy debt,survived
+237,tr,Male,heavy debt,survived
+238,23,Male,debt,survived
+239,23,Male,debt,survived
+241,tr,tr,heavy debt,survived
+242,tr,Male,heavy debt,survived
+243,tr,Male,heavy debt,survived
 244,tr,tr,tr,died
-245,23,Male,tr,survived
-246,23,Male,tr,survived
-247,tr,Male,tr,survived
-248,23,Male,tr,survived
-249,tr,Male,tr,survived
+245,23,Male,debt,survived
+246,23,Male,debt,survived
+247,tr,Male,heavy debt,survived
+248,23,Male,debt,survived
+249,tr,Male,heavy debt,survived
 250,tr,Male,tr,survived
 251,tr,tr,tr,died
 252,tr,tr,tr,died
-253,tr,Male,tr,survived
-254,tr,tr,tr,died
-255,tr,tr,tr,survived
+253,tr,Male,heavy debt,survived
+254,tr,tr,debt,died
+255,tr,tr,heavy debt,survived
 256,tr,tr,tr,died
-257,tr,Male,tr,survived
-258,tr,Male,tr,survived
+257,tr,Male,heavy debt,survived
+258,tr,Male,heavy debt,survived
 259,tr,tr,tr,died
-260,tr,Male,tr,survived
+260,tr,Male,heavy debt,survived
 261,tr,tr,tr,died
 262,tr,tr,tr,died
-263,tr,Female,tr,survived
-264,tr,Female,tr,survived
-265,tr,Male,tr,survived
-266,tr,Male,tr,survived
+263,tr,Female,heavy debt,survived
+264,tr,Female,heavy debt,survived
+265,tr,Male,heavy debt,survived
+266,tr,Male,heavy debt,survived
 267,tr,tr,tr,died
-268,tr,tr,tr,survived
+268,tr,tr,heavy debt,survived
 269,tr,tr,tr,died
-270,tr,Male,tr,survived
-271,23,Male,tr,survived
-272,tr,tr,tr,died
+270,tr,Male,heavy debt,survived
+271,23,Male,heavy debt,survived
+272,tr,tr,heavy debt,died
 273,tr,Male,tr,survived
-274,tr,Female,tr,survived
-275,tr,Male,tr,survived
-276,23,Male,tr,survived
+274,tr,Female,heavy debt,survived
+275,tr,Male,heavy debt,survived
+276,23,Male,heavy debt,survived
 277,47,Male,tr,survived
-278,23,Male,tr,survived
-279,tr,Male,tr,survived
-280,tr,Male,tr,survived
+278,23,Male,heavy debt,survived
+279,tr,Male,heavy debt,survived
+280,tr,Male,heavy debt,survived
 281,tr,tr,tr,died
-282,tr,Male,tr,survived
-283,tr,Female,tr,survived
-284,tr,Male,tr,survived
-285,tr,Male,tr,survived
-286,tr,Male,tr,survived
-287,tr,Male,tr,survived
+282,tr,Male,heavy debt,survived
+283,tr,Female,heavy debt,survived
+284,tr,Male,heavy debt,survived
+285,tr,Male,heavy debt,survived
+286,tr,Male,heavy debt,survived
+287,tr,Male,heavy debt,survived
 288,tr,tr,tr,died
-289,tr,Male,tr,survived
-290,tr,Male,tr,survived
+289,tr,Male,heavy debt,survived
+290,tr,Male,heavy debt,survived
 291,tr,tr,tr,died
-292,tr,tr,tr,died
-293,tr,Female,tr,survived
+292,tr,tr,debt,died
+293,tr,Female,heavy debt,survived
 294,tr,tr,tr,died
-295,tr,Female,tr,survived
-296,tr,Male,tr,survived
-297,tr,tr,tr,died
-298,tr,tr,tr,died
+295,tr,Female,heavy debt,survived
+296,tr,Male,heavy debt,survived
+297,tr,tr,debt,died
+298,tr,tr,debt,died
 299,tr,tr,tr,died
-300,tr,tr,tr,survived
-301,23,Male,tr,survived
-302,23,Male,tr,survived
-303,tr,Male,tr,survived
-304,23,Male,tr,survived
-305,tr,Male,tr,died
-306,23,Female,tr,survived
-307,23,Male,tr,survived
-309,23,Male,tr,survived
-310,23,Male,tr,survived
-311,23,Male,tr,survived
+300,tr,tr,heavy debt,survived
+301,23,Male,heavy debt,survived
+302,23,Male,debt,survived
+303,tr,Male,heavy debt,survived
+304,23,Male,heavy debt,survived
+305,tr,Male,debt,died
+306,23,Female,heavy debt,survived
+307,23,Male,debt,survived
+309,23,Male,debt,survived
+310,23,Male,heavy debt,survived
+311,23,Male,heavy debt,survived
 312,tr,tr,tr,died
-313,23,Male,tr,survived
-314,23,Male,tr,survived
+313,23,Male,heavy debt,survived
+314,23,Male,heavy debt,survived
 315,tr,tr,tr,died
-316,23,Male,tr,survived
-317,tr,Female,tr,survived
-318,tr,Male,tr,survived
+316,23,Male,debt,survived
+317,tr,Female,heavy debt,survived
+318,tr,Male,heavy debt,survived
 319,tr,tr,tr,died
-320,tr,Male,tr,died
-321,23,Male,tr,survived
-323,23,Male,tr,survived
-324,23,Male,tr,survived
-325,23,Male,tr,survived
-326,tr,tr,tr,survived
-327,23,Female,tr,survived
-328,tr,Male,tr,survived
-329,23,Male,tr,survived
-330,tr,tr,tr,survived
-331,23,tr,tr,survived
-332,23,Male,tr,survived
-333,tr,tr,tr,survived
-334,23,Male,tr,survived
-335,tr,tr,tr,died
-336,23,Male,tr,survived
-337,44,Male,tr,survived
-338,tr,tr,tr,died
-339,tr,Female,tr,died
+320,tr,Male,debt,died
+321,23,Male,debt,survived
+323,23,Male,heavy debt,survived
+324,23,Male,heavy debt,survived
+325,23,Male,debt,survived
+326,tr,tr,heavy debt,survived
+327,23,Female,debt,survived
+328,tr,Male,heavy debt,survived
+329,23,Male,heavy debt,survived
+330,tr,tr,heavy debt,survived
+331,23,tr,debt,survived
+332,23,Male,heavy debt,survived
+333,tr,tr,heavy debt,survived
+334,23,Male,debt,survived
+335,tr,tr,heavy debt,died
+336,23,Male,debt,survived
+337,44,Male,heavy debt,survived
+338,tr,tr,heavy debt,died
+339,tr,Female,debt,died
 340,tr,tr,tr,died
-341,tr,Female,tr,survived
-342,tr,Female,tr,survived
-343,tr,tr,tr,died
-344,tr,Female,tr,survived
-345,tr,Female,tr,survived
-346,tr,Male,tr,survived
-347,tr,tr,tr,died
-348,tr,Male,tr,survived
-349,tr,Female,tr,survived
-350,tr,Male,tr,survived
-351,tr,Male,tr,survived
-352,tr,Male,tr,survived
-353,tr,Male,tr,survived
-354,tr,tr,tr,died
-355,tr,Male,tr,died
-356,tr,Male,tr,survived
+341,tr,Female,heavy debt,survived
+342,tr,Female,heavy debt,survived
+343,tr,tr,heavy debt,died
+344,tr,Female,heavy debt,survived
+345,tr,Female,heavy debt,survived
+346,tr,Male,heavy debt,survived
+347,tr,tr,debt,died
+348,tr,Male,heavy debt,survived
+349,tr,Female,heavy debt,survived
+350,tr,Male,heavy debt,survived
+351,tr,Male,heavy debt,survived
+352,tr,Male,heavy debt,survived
+353,tr,Male,heavy debt,survived
+354,tr,tr,debt,died
+355,tr,Male,heavy debt,died
+356,tr,Male,heavy debt,survived
 357,23,Male,tr,survived
 358,tr,tr,tr,died
-359,tr,tr,tr,died
+359,tr,tr,heavy debt,died
 361,tr,Female,tr,survived
-362,tr,Male,tr,survived
+362,tr,Male,debt,survived
 363,tr,Male,tr,survived
-364,tr,tr,tr,died
-365,23,Female,tr,survived
-366,tr,Male,tr,survived
-367,23,Male,tr,survived
-368,tr,Male,tr,survived
-369,23,Male,tr,survived
-370,tr,Male,tr,died
-371,23,tr,tr,survived
-372,tr,tr,tr,survived
-373,tr,Male,tr,survived
-374,tr,tr,tr,died
-375,tr,Male,tr,survived
-376,tr,Male,tr,survived
+364,tr,tr,debt,died
+365,23,Female,heavy debt,survived
+366,tr,Male,heavy debt,survived
+367,23,Male,debt,survived
+368,tr,Male,heavy debt,survived
+369,23,Male,debt,survived
+370,tr,Male,heavy debt,died
+371,23,tr,debt,survived
+372,tr,tr,heavy debt,survived
+373,tr,Male,debt,survived
+374,tr,tr,heavy debt,died
+375,tr,Male,heavy debt,survived
+376,tr,Male,heavy debt,survived
 377,tr,tr,tr,died
 378,tr,tr,tr,died
-379,tr,Female,tr,survived
-380,tr,Female,tr,survived
+379,tr,Female,heavy debt,survived
+380,tr,Female,debt,survived
 381,tr,tr,tr,died
-382,tr,Male,tr,survived
-383,tr,Male,tr,survived
-384,tr,tr,tr,survived
-385,tr,tr,tr,died
-386,tr,Male,tr,survived
-387,tr,tr,tr,survived
-388,23,Male,tr,survived
+382,tr,Male,heavy debt,survived
+383,tr,Male,heavy debt,survived
+384,tr,tr,heavy debt,survived
+385,tr,tr,debt,died
+386,tr,Male,heavy debt,survived
+387,tr,tr,heavy debt,survived
+388,23,Male,debt,survived
 389,tr,tr,tr,died
 390,tr,tr,tr,died
 391,tr,tr,tr,died
-392,tr,Male,tr,survived
-393,tr,tr,tr,died
-394,tr,Male,tr,survived
-395,23,Male,tr,survived
-396,tr,tr,tr,survived
-397,tr,Male,tr,survived
-398,23,Female,Game 1,survived
-399,tr,tr,tr,died
-400,23,tr,tr,survived
-401,23,Female,tr,survived
-402,23,Female,tr,survived
-403,tr,tr,tr,died
-404,23,Male,tr,survived
-405,23,Male,tr,survived
-406,tr,Male,tr,survived
-408,23,Male,tr,survived
+392,tr,Male,heavy debt,survived
+393,tr,tr,heavy debt,died
+394,tr,Male,heavy debt,survived
+395,23,Male,debt,survived
+396,tr,tr,heavy debt,survived
+397,tr,Male,heavy debt,survived
+398,23,Female,debt,survived
+399,tr,tr,heavy debt,died
+400,23,tr,debt,survived
+401,23,Female,heavy debt,survived
+402,23,Female,heavy debt,survived
+403,tr,tr,heavy debt,died
+404,23,Male,heavy debt,survived
+405,23,Male,heavy debt,survived
+406,tr,Male,debt,survived
+408,23,Male,debt,survived
 409,49,Male,tr,survived
-410,23,Male,tr,survived
-411,23,tr,tr,survived
-412,23,Male,tr,survived
-413,23,Male,tr,survived
-414,23,tr,tr,survived
-415,23,Male,tr,survived
-416,tr,Male,tr,survived
-417,23,Male,tr,survived
+410,23,Male,debt,survived
+411,23,tr,heavy debt,survived
+412,23,Male,debt,survived
+413,23,Male,heavy debt,survived
+414,23,tr,heavy debt,survived
+415,23,Male,heavy debt,survived
+416,tr,Male,heavy debt,survived
+417,23,Male,heavy debt,survived
 418,tr,tr,tr,died
-419,tr,Male,tr,survived
-420,tr,Female,tr,died
-421,tr,tr,tr,survived
-422,tr,tr,tr,survived
-423,tr,tr,tr,survived
-424,tr,tr,tr,survived
-425,tr,Male,tr,survived
-426,tr,Female,tr,survived
-427,23,Female,tr,survived
-428,tr,Male,tr,survived
-429,tr,Female,tr,survived
-430,22,Male,tr,survived
+419,tr,Male,heavy debt,survived
+420,tr,Female,heavy debt,died
+421,tr,tr,heavy debt,survived
+422,tr,tr,heavy debt,survived
+423,tr,tr,heavy debt,survived
+424,tr,tr,heavy debt,survived
+425,tr,Male,debt,survived
+426,tr,Female,heavy debt,survived
+427,23,Female,heavy debt,survived
+428,tr,Male,heavy debt,survived
+429,tr,Female,heavy debt,survived
+430,22,Male,heavy debt,survived
 431,tr,tr,tr,died
-432,tr,Male,tr,survived
-433,tr,Male,tr,survived
-434,tr,Female,tr,survived
-435,tr,tr,tr,survived
-436,tr,tr,tr,survived
-437,tr,tr,tr,survived
-438,tr,tr,tr,survived
-439,tr,tr,tr,survived
-440,23,Male,tr,survived
-441,23,Male,tr,survived
-442,23,Male,tr,survived
-443,23,Male,tr,survived
-444,23,Male,tr,survived
-445,23,Male,tr,survived
-446,23,tr,tr,survived
-447,tr,tr,tr,survived
-448,tr,Male,tr,survived
+432,tr,Male,debt,survived
+433,tr,Male,heavy debt,survived
+434,tr,Female,heavy debt,survived
+435,tr,tr,heavy debt,survived
+436,tr,tr,heavy debt,survived
+437,tr,tr,heavy debt,survived
+438,tr,tr,heavy debt,survived
+439,tr,tr,heavy debt,survived
+440,23,Male,heavy debt,survived
+441,23,Male,heavy debt,survived
+442,23,Male,heavy debt,survived
+443,23,Male,heavy debt,survived
+444,23,Male,heavy debt,survived
+445,23,Male,heavy debt,survived
+446,23,tr,heavy debt,survived
+447,tr,tr,heavy debt,survived
+448,tr,Male,debt,survived
 449,tr,tr,tr,died
-450,tr,Male,tr,survived
-451,tr,tr,tr,survived
-452,23,Male,tr,survived
-454,tr,Male,tr,survived
-455,41,Male,tr,survived
+450,tr,Male,heavy debt,survived
+451,tr,tr,heavy debt,survived
+452,23,Male,debt,survived
+454,tr,Male,heavy debt,survived
+455,41,Male,heavy debt,survived
+456,tr,tr,tr,died
