@@ -35,3 +35,8 @@ The scraping process involved editing the URL to loop through each player's wiki
 - [Data Collection Notebook](./collecting-data.ipynb): Contains the code used for scraping and processing data.  
 - [Player Records CSV](./player_records.csv): The resulting dataset in CSV format.  
 
+## **Data pre-processing**
+I first went through the data manually to edit any records which were corrupted and I could find the actual data for - I found that a lot of the main characters profiles had been vandilised at the time of web-scraping! I updated any actual debt values and any tr ages I could find. To clean the data I: 
+- Randomly genereated an age ranging from the youngest to oldest for any trace values in age
+- Replaced heavy debt from a randomly generated value ranging from ... and debt from a randomly generated value from ...
+  
