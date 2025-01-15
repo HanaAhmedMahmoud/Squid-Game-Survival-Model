@@ -38,5 +38,6 @@ The scraping process involved editing the URL to loop through each player's wiki
 ## **Data pre-processing**
 I first went through the data manually to edit any records which were corrupted and I could find the actual data for - I found that a lot of the main characters profiles had been vandilised at the time of web-scraping! I updated any actual debt values and any tr ages I could find. To clean the data I: 
 - Randomly genereated an age ranging from the youngest to oldest for any trace values in age
-- Replaced heavy debt from a randomly generated value ranging from ... and debt from a randomly generated value from ...
+- Replaced debt from a randomly generated value ranging from ₩100,000,000 to ₩700,000,000 and heavy debt from a randomly generated value from ₩700,000,001 to ₩1,500,000,000 (these figures guided by the debts known)
+- Randomly generated a sex if any tr in sex
   
