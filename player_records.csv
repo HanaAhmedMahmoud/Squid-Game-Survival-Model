@@ -95,7 +95,7 @@ Player Number,Age,Sex,Debt,Survival
 104,23,Male,debt,survived
 105,23,tr,heavy debt,survived
 106,tr,tr,heavy debt,died
-107,23,Female,debt,survived
+107,23,Female,540000000,survived
 108,23,tr,debt,survived
 109,tr,tr,tr,died
 110,23,Male,debt,survived
@@ -105,8 +105,8 @@ Player Number,Age,Sex,Debt,Survival
 115,tr,Male,heavy debt,died
 116,23,Male,heavy debt,survived
 117,tr,Female,debt,survived
-118,23,Male,debt,survived
-119,23,Male,debt,survived
+118,23,Male,1200000000,survived
+119,23,Male,1390000000,survived
 120,23,Male,debt,survived
 121,tr,Male,heavy debt,survived
 122,23,Male,tr,survived
@@ -201,7 +201,8 @@ Player Number,Age,Sex,Debt,Survival
 214,tr,Male,heavy debt,survived
 215,23,Male,debt,survived
 216,tr,Female,heavy debt,survived
-217,23,Male,debt,survived
+217,23,Male,debt,died
+218,46,Male,650000000,survived
 219,23,Male,heavy debt,survived
 220,23,Male,heavy debt,survived
 221,23,Male,debt,survived
@@ -303,6 +304,7 @@ Player Number,Age,Sex,Debt,Survival
 319,tr,tr,tr,died
 320,tr,Male,debt,died
 321,23,Male,debt,survived
+322,40,Male,880000000,survived
 323,23,Male,heavy debt,survived
 324,23,Male,heavy debt,survived
 325,23,Male,debt,survived
@@ -348,7 +350,7 @@ Player Number,Age,Sex,Debt,Survival
 366,tr,Male,heavy debt,survived
 367,23,Male,debt,survived
 368,tr,Male,heavy debt,survived
-369,23,Male,debt,survived
+369,23,Male,900000000,survived
 370,tr,Male,heavy debt,died
 371,23,tr,debt,survived
 372,tr,tr,heavy debt,survived
@@ -433,4 +435,4 @@ Player Number,Age,Sex,Debt,Survival
 452,23,Male,debt,survived
 454,tr,Male,heavy debt,survived
 455,41,Male,heavy debt,survived
-456,tr,tr,tr,died
+456,51,Male,heavy debt,survived
