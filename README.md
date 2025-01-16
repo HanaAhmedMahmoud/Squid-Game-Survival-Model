@@ -41,6 +41,5 @@ I first went through the data manually to edit any records which were corrupted 
 - Replaced debt from a randomly generated value ranging from ₩100,000,000 to ₩700,000,000 and heavy debt from a randomly generated value from ₩700,000,001 to ₩1,500,000,000 (these figures guided by the debts known)
 - Forward filling to replace tr in Sex
 
-Code:
-
+- [Squid Game Model Notebook](./squid-game-model.ipynb): Contains data pre-processing and linear regression model
   
