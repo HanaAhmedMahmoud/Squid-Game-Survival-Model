@@ -7,8 +7,10 @@ This curiosity inspired me to build a machine learning project to explore how pe
 
 ### Skills learnt: 
 - Webscraping with Beautiful Soup
-- Supervised learning techniques
-- Decision trees and dealing with categorical data 
+- Data cleaning and preprocessing
+- Supervised machine learning
+- Decision trees and dealing with categorical data
+- Model evaluation and metrics
 ---
 
 ## **Defining the Problem**  
@@ -52,6 +54,10 @@ I split the testing and training sets using a 70:30 split, using a decision tree
 
 <img width="540" alt="Screenshot 2025-01-19 at 17 10 14" src="https://github.com/user-attachments/assets/8952e14b-f0cb-48be-967d-51b140fad997" />
 
+- True Positives (91): The model successfully identified the participants who did not survive.
+- True Negatives (22): The model also correctly predicted some survivors.
+- False Positives (8): A few participants who survived were incorrectly predicted to have died.
+- False Negatives (11): The model incorrectly classified some participants who died as survivors.
 
 I then plotted the decision tree using the plot_tree function from sklearn.tree
 
@@ -64,3 +70,5 @@ From this, there is sufficient evidence to suggest:
 
 Therefore, I conclude that as a 19 year old computer scientist- I would have died in Squid Game!
 
+## **Evaluation**
+As the dataset was manually created and based on fictional characters, there  is most certainly some data bias. Furthermore, I only extracted the 3 features age, debt and sex wheras other factors may have influenced survival such as physical fitness, strategy or in Oh Il-Nams case if they'd played the game before. In the future, I would attempt to extract more features and use a neural network to predict survival. 
