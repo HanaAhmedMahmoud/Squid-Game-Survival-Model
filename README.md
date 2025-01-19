@@ -5,6 +5,10 @@ While watching *Squid Game*, I found myself wondering: could an AI model predict
 
 This curiosity inspired me to build a machine learning project to explore how personal attributes might influence survival in each game. The goal is to develop a model that predicts whether a participant would survive while also analyzing the most significant factors contributing to survival.  
 
+### Skills learnt: 
+- Webscraping with Beautiful Soup
+- Supervised learning techniques
+- Decision trees and dealing with categorical data 
 ---
 
 ## **Defining the Problem**  
@@ -41,5 +45,22 @@ I first went through the data manually to edit any records which were corrupted 
 - Replaced debt from a randomly generated value ranging from ₩100,000,000 to ₩700,000,000 and heavy debt from a randomly generated value from ₩700,000,001 to ₩1,500,000,000 (these figures guided by the debts known)
 - Forward filling to replace tr in Sex
 
-- [Squid Game Model Notebook](./squid-game-model.ipynb): Contains data pre-processing and linear regression model
-  
+- [Squid Game Model Notebook](./squid-game-model.ipynb): Contains data pre-processing and decision tree model
+
+## **Results** 
+I split the testing and training sets using a 70:30 split, using a decision tree due to output being categorical. I used the decision tree classifier from sklearn.tree, with my model predicting the correct output 85% of the time! I created a confusion matrix to visualise my results: 
+
+<img width="540" alt="Screenshot 2025-01-19 at 17 10 14" src="https://github.com/user-attachments/assets/8952e14b-f0cb-48be-967d-51b140fad997" />
+
+
+I then plotted the decision tree using the plot_tree function from sklearn.tree
+
+<img width="783" alt="Screenshot 2025-01-19 at 17 10 28" src="https://github.com/user-attachments/assets/6379420c-38eb-471b-bc29-82d482e3f0a7" />
+
+From this, there is sufficient evidence to suggest:
+- People aged > 23.5 in debt are likely to survive
+- People ages > 23.5 in heavy debt are likely to die
+- People aged < 23.5 are likely to due unless they are just into heavy debt
+
+Therefore, I conclude that as a 19 year old computer scientist- I would have died in Squid Game!
+
